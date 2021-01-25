@@ -1,0 +1,9 @@
+.text {
+  font-family: Roboto, sans-serif;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+}
+.name {
+  composes: text;
+  font-weight: 700;
+}
